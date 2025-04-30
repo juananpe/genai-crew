@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GenAI Crew</title>
+    <link>https://juananpe.github.io/genai-crew/</link>
+    <description>Recent content on GenAI Crew</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Apr 2025 11:00:00 +0000</lastBuildDate>
+    <atom:link href="https://juananpe.github.io/genai-crew/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Failure Modes of AI Agents: Effects</title>
+      <link>https://juananpe.github.io/genai-crew/agent-failure/</link>
+      <pubDate>Sun, 27 Apr 2025 11:00:00 +0000</pubDate>
+      <guid>https://juananpe.github.io/genai-crew/agent-failure/</guid>
+      <description>&lt;p&gt;Rubén Fernández (@rub) recently shared insights on a Microsoft paper about AI Agent failure modes, concerned it might not get the attention it deserves. You can find his original note here: &lt;a href=&#34;https://substack.com/@thelearningrub/note/c-113284290?utm_source=notes-share-action&amp;amp;r=dhjup&#34;&gt;https://substack.com/@thelearningrub/note/c-113284290&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;He mentioned:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I liked Microsoft&amp;rsquo;s paper about Failure Modes of AI Agents, but I think it will go unnoticed by most people, so I&amp;rsquo;ll prepare small infographics to showcase the information it contains.&lt;/p&gt;
+&lt;p&gt;The first one, some Effects of AI Agents&amp;rsquo; failure&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini Context Caching Explained</title>
+      <link>https://juananpe.github.io/genai-crew/gemini-caching/</link>
+      <pubDate>Sun, 27 Apr 2025 10:00:00 +0000</pubDate>
+      <guid>https://juananpe.github.io/genai-crew/gemini-caching/</guid>
+      <description>&lt;p&gt;Context caching in Gemini allows you to store and pre-compute context, such as documents or even entire code repositories. This cached context can then be reused in subsequent requests, leading to significant cost savings – potentially up to 75%.&lt;/p&gt;
+&lt;p&gt;For example, using Gemini 1.5 Pro, caching a full GitHub repository and then asking follow-up questions about it demonstrates this capability. Each subsequent request utilizing the same cache could cost substantially less ($0.31 vs. $1.25 per 1 million tokens, according to the tweet).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Intellect-2: First Decentralized 32B RL Training Complete</title>
+      <link>https://juananpe.github.io/genai-crew/intellect-2/</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://juananpe.github.io/genai-crew/intellect-2/</guid>
+      <description>&lt;p&gt;Prime Intellect (&lt;a href=&#34;https://x.com/PrimeIntellect&#34;&gt;@PrimeIntellect&lt;/a&gt;) announced the completion of INTELLECT-2, the first decentralized Reinforcement Learning (RL) training run for a 32-billion-parameter model.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Intellect-2 Training Progress&#34; loading=&#34;lazy&#34; src=&#34;https://juananpe.github.io/genai-crew/images/intellect2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Points:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Milestone:&lt;/strong&gt; This marks the first successful decentralized RL training of a 32B model.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Open Collaboration:&lt;/strong&gt; The training was open to compute contributions from anyone, making it fully permissionless.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Goal:&lt;/strong&gt; The project aims to scale towards frontier reasoning capabilities in areas like coding, math, and science.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upcoming Release:&lt;/strong&gt; A full open-source release, including model checkpoints, training data, and a detailed technical report, is expected approximately one week after the announcement (made around late August 2024).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Community Effort:&lt;/strong&gt; The announcement highlighted the significant contributions from various compute providers, including Demeter_compute, string, BioProtocol, mev_pete, plaintext_cap, skre_0, oldmankotaro, plabs, ibuyrugs, 0xfr_, marloXBT, herb0x_, mo, toptickcrypto, cannopo, samsja19, jackminong, and primeprimeint1234.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Markdown Syntax</title>
+      <link>https://juananpe.github.io/genai-crew/posts/markdown-syntax/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://juananpe.github.io/genai-crew/posts/markdown-syntax/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Rich Content</title>
+      <link>https://juananpe.github.io/genai-crew/posts/rich-content/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://juananpe.github.io/genai-crew/posts/rich-content/</guid>
+      <description>A brief description of Hugo Shortcodes</description>
+    </item>
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://juananpe.github.io/genai-crew/posts/placeholder-text/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://juananpe.github.io/genai-crew/posts/placeholder-text/</guid>
+      <description>Lorem Ipsum Dolor Si Amet</description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>https://juananpe.github.io/genai-crew/posts/emoji-support/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://juananpe.github.io/genai-crew/posts/emoji-support/</guid>
+      <description>Guide to emoji usage in Hugo</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://juananpe.github.io/genai-crew/about/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://juananpe.github.io/genai-crew/about/</guid>
+      <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache License 2.0&lt;/a&gt;. Hugo supports TOML, YAML, and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
+&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/russross/blackfriday&#34;&gt;Blackfriday&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;&gt;Chroma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;&gt;Smartcrop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;Cobra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://juananpe.github.io/genai-crew/posts/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://juananpe.github.io/genai-crew/posts/math-typesetting/</guid>
+      <description>A brief guide to setup KaTeX</description>
+    </item>
+  </channel>
+</rss>

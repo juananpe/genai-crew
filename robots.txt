@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://juananpe.github.io/genai-crew/sitemap.xml
