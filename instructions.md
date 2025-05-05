@@ -60,6 +60,10 @@ When adding content (like a blog post or page) to this Hugo project that include
    date: YYYY-MM-DD
    draft: false
    tags: ["tag1", "tag2"]
+   cover:
+       image: "/images/your-image.png"
+       alt: "Image Alt Text"
+       caption: "Image Caption Text"
    ---
    ```
 
@@ -115,4 +119,4 @@ When a new post is added and you want to update the homepage highlights:
 2. **Move the previous third (rightmost/oldest) box** from the main section to the "Previously Covered" section, appending it after any existing entries there.
 3. The "Previously Covered" section should accumulate all older posts, in the order they were moved out of the main section.
 
-This ensures the AI Agent Protocols Survey remains a permanent highlight, and the homepage always features the latest content and a consistent historical record. 
+This ensures the AI Agent Protocols Survey remains a permanent highlight, and the homepage always features the latest content and a consistent historical record.
