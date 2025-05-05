@@ -2,25 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://juananpe.github.io/genai-crew/tags/ai-agents/</loc>
-    <lastmod>2025-04-27T11:00:00+00:00</lastmod>
+    <loc>https://juananpe.github.io/genai-crew/posts/survey-ai-agent-protocols/</loc>
+    <lastmod>2025-05-05T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://juananpe.github.io/genai-crew/agent-failure/</loc>
+    <loc>https://juananpe.github.io/genai-crew/tags/agent-frameworks/</loc>
+    <lastmod>2025-05-05T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juananpe.github.io/genai-crew/tags/agent-protocols/</loc>
+    <lastmod>2025-05-05T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juananpe.github.io/genai-crew/tags/ai-agents/</loc>
+    <lastmod>2025-05-05T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juananpe.github.io/genai-crew/tags/ai-ecosystem/</loc>
+    <lastmod>2025-05-05T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juananpe.github.io/genai-crew/</loc>
+    <lastmod>2025-05-05T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juananpe.github.io/genai-crew/tags/llm/</loc>
+    <lastmod>2025-05-05T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juananpe.github.io/genai-crew/posts/</loc>
+    <lastmod>2025-05-05T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juananpe.github.io/genai-crew/tags/</loc>
+    <lastmod>2025-05-05T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juananpe.github.io/genai-crew/posts/agent-failure/</loc>
     <lastmod>2025-04-27T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://juananpe.github.io/genai-crew/tags/failure-modes/</loc>
-    <lastmod>2025-04-27T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://juananpe.github.io/genai-crew/</loc>
     <lastmod>2025-04-27T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://juananpe.github.io/genai-crew/tags/infographic/</loc>
     <lastmod>2025-04-27T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://juananpe.github.io/genai-crew/tags/microsoft/</loc>
-    <lastmod>2025-04-27T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://juananpe.github.io/genai-crew/tags/</loc>
     <lastmod>2025-04-27T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://juananpe.github.io/genai-crew/tags/context-caching/</loc>
@@ -32,7 +50,7 @@
     <loc>https://juananpe.github.io/genai-crew/tags/gemini/</loc>
     <lastmod>2025-04-27T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://juananpe.github.io/genai-crew/gemini-caching/</loc>
+    <loc>https://juananpe.github.io/genai-crew/posts/gemini-caching/</loc>
     <lastmod>2025-04-27T10:00:00+00:00</lastmod>
   </url><url>
     <loc>https://juananpe.github.io/genai-crew/tags/openai/</loc>
@@ -47,7 +65,7 @@
     <loc>https://juananpe.github.io/genai-crew/tags/decentralized-ai/</loc>
     <lastmod>2024-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://juananpe.github.io/genai-crew/intellect-2/</loc>
+    <loc>https://juananpe.github.io/genai-crew/posts/intellect-2/</loc>
     <lastmod>2024-08-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://juananpe.github.io/genai-crew/tags/large-models/</loc>
@@ -60,6 +78,5 @@
     <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://juananpe.github.io/genai-crew/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
 </urlset>

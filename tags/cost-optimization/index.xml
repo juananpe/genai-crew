@@ -10,9 +10,9 @@
     <atom:link href="https://juananpe.github.io/genai-crew/tags/cost-optimization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gemini Context Caching Explained</title>
-      <link>https://juananpe.github.io/genai-crew/gemini-caching/</link>
+      <link>https://juananpe.github.io/genai-crew/posts/gemini-caching/</link>
       <pubDate>Sun, 27 Apr 2025 10:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/gemini-caching/</guid>
+      <guid>https://juananpe.github.io/genai-crew/posts/gemini-caching/</guid>
       <description>&lt;p&gt;Context caching in Gemini allows you to store and pre-compute context, such as documents or even entire code repositories. This cached context can then be reused in subsequent requests, leading to significant cost savings – potentially up to 75%.&lt;/p&gt;&#xA;&lt;p&gt;For example, using Gemini 1.5 Pro, caching a full GitHub repository and then asking follow-up questions about it demonstrates this capability. Each subsequent request utilizing the same cache could cost substantially less ($0.31 vs. $1.25 per 1 million tokens, according to the tweet).&lt;/p&gt;</description>
     </item>
   </channel>

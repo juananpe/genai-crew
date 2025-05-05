@@ -6,28 +6,35 @@
     <description>Recent content on GenAI Crew</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Apr 2025 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 10:00:00 +0000</lastBuildDate>
     <atom:link href="https://juananpe.github.io/genai-crew/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>A Survey of AI Agent Protocols: Framework and Future</title>
+      <link>https://juananpe.github.io/genai-crew/posts/survey-ai-agent-protocols/</link>
+      <pubDate>Mon, 05 May 2025 10:00:00 +0000</pubDate>
+      <guid>https://juananpe.github.io/genai-crew/posts/survey-ai-agent-protocols/</guid>
+      <description>&lt;p&gt;A recent research paper from Shanghai Jiao Tong University and the ANP Community provides the first comprehensive analysis of existing agent protocols, offering a systematic two-dimensional classification that distinguishes between context-oriented versus inter-agent protocols and general-purpose versus domain-specific protocols.&lt;/p&gt;&#xA;&lt;p&gt;The paper highlights a critical issue in the rapidly evolving landscape of LLM agents: the lack of standardized protocols for communication with external tools or data sources. This standardization gap makes it difficult for agents to work together effectively or scale across complex tasks, ultimately limiting their potential for tackling real-world problems.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Failure Modes of AI Agents: Effects</title>
-      <link>https://juananpe.github.io/genai-crew/agent-failure/</link>
+      <link>https://juananpe.github.io/genai-crew/posts/agent-failure/</link>
       <pubDate>Sun, 27 Apr 2025 11:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/agent-failure/</guid>
+      <guid>https://juananpe.github.io/genai-crew/posts/agent-failure/</guid>
       <description>&lt;p&gt;Rubén Fernández (@rub) recently shared insights on a Microsoft paper about AI Agent failure modes, concerned it might not get the attention it deserves. You can find his original note here: &lt;a href=&#34;https://substack.com/@thelearningrub/note/c-113284290?utm_source=notes-share-action&amp;amp;r=dhjup&#34;&gt;https://substack.com/@thelearningrub/note/c-113284290&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;He mentioned:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I liked Microsoft&amp;rsquo;s paper about Failure Modes of AI Agents, but I think it will go unnoticed by most people, so I&amp;rsquo;ll prepare small infographics to showcase the information it contains.&lt;/p&gt;&#xA;&lt;p&gt;The first one, some Effects of AI Agents&amp;rsquo; failure&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini Context Caching Explained</title>
-      <link>https://juananpe.github.io/genai-crew/gemini-caching/</link>
+      <link>https://juananpe.github.io/genai-crew/posts/gemini-caching/</link>
       <pubDate>Sun, 27 Apr 2025 10:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/gemini-caching/</guid>
+      <guid>https://juananpe.github.io/genai-crew/posts/gemini-caching/</guid>
       <description>&lt;p&gt;Context caching in Gemini allows you to store and pre-compute context, such as documents or even entire code repositories. This cached context can then be reused in subsequent requests, leading to significant cost savings – potentially up to 75%.&lt;/p&gt;&#xA;&lt;p&gt;For example, using Gemini 1.5 Pro, caching a full GitHub repository and then asking follow-up questions about it demonstrates this capability. Each subsequent request utilizing the same cache could cost substantially less ($0.31 vs. $1.25 per 1 million tokens, according to the tweet).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Intellect-2: First Decentralized 32B RL Training Complete</title>
-      <link>https://juananpe.github.io/genai-crew/intellect-2/</link>
+      <link>https://juananpe.github.io/genai-crew/posts/intellect-2/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/intellect-2/</guid>
-      <description>&lt;p&gt;Prime Intellect (&lt;a href=&#34;https://x.com/PrimeIntellect&#34;&gt;@PrimeIntellect&lt;/a&gt;) announced the completion of INTELLECT-2, the first decentralized Reinforcement Learning (RL) training run for a 32-billion-parameter model.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;../images/intellect2.png&#34;&#xA;    alt=&#34;Intellect-2 Training Progress&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Key Points:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Milestone:&lt;/strong&gt; This marks the first successful decentralized RL training of a 32B model.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Open Collaboration:&lt;/strong&gt; The training was open to compute contributions from anyone, making it fully permissionless.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Goal:&lt;/strong&gt; The project aims to scale towards frontier reasoning capabilities in areas like coding, math, and science.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Upcoming Release:&lt;/strong&gt; A full open-source release, including model checkpoints, training data, and a detailed technical report, is expected approximately one week after the announcement (made around late August 2024).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Community Effort:&lt;/strong&gt; The announcement highlighted the significant contributions from various compute providers, including Demeter&lt;em&gt;compute, string, BioProtocol, mev_pete, plaintext_cap, skre_0, oldmankotaro, plabs, ibuyrugs, 0xfr&lt;/em&gt;, marloXBT, herb0x_, mo, toptickcrypto, cannopo, samsja19, jackminong, and primeprimeint1234.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>https://juananpe.github.io/genai-crew/posts/intellect-2/</guid>
+      <description>&lt;p&gt;Prime Intellect (&lt;a href=&#34;https://x.com/PrimeIntellect&#34;&gt;@PrimeIntellect&lt;/a&gt;) announced the completion of INTELLECT-2, the first decentralized Reinforcement Learning (RL) training run for a 32-billion-parameter model.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://juananpe.github.io/genai-crew/images/intellect2.png&#34;&#xA;    alt=&#34;Intellect-2 Training Progress&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Key Points:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Milestone:&lt;/strong&gt; This marks the first successful decentralized RL training of a 32B model.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Open Collaboration:&lt;/strong&gt; The training was open to compute contributions from anyone, making it fully permissionless.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Goal:&lt;/strong&gt; The project aims to scale towards frontier reasoning capabilities in areas like coding, math, and science.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Upcoming Release:&lt;/strong&gt; A full open-source release, including model checkpoints, training data, and a detailed technical report, is expected approximately one week after the announcement (made around late August 2024).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Community Effort:&lt;/strong&gt; The announcement highlighted the significant contributions from various compute providers, including Demeter&lt;em&gt;compute, string, BioProtocol, mev_pete, plaintext_cap, skre_0, oldmankotaro, plabs, ibuyrugs, 0xfr&lt;/em&gt;, marloXBT, herb0x_, mo, toptickcrypto, cannopo, samsja19, jackminong, and primeprimeint1234.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
@@ -35,13 +42,6 @@
       <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://juananpe.github.io/genai-crew/about/</guid>
       <description>&lt;h1 id=&#34;about-our-generative-ai-blog&#34;&gt;About Our Generative AI Blog&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to our daily curated collection of Generative AI insights and discoveries! This blog serves as a bridge between our passionate Telegram community and the wider world of AI enthusiasts.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-we-do&#34;&gt;What We Do&lt;/h2&gt;&#xA;&lt;p&gt;We are a group of Generative AI enthusiasts who share and discuss the latest developments, breakthroughs, and interesting applications in the field through our Telegram group. Our blog automatically processes these discussions and curates the most valuable content into daily posts, making it accessible to everyone interested in Generative AI.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://juananpe.github.io/genai-crew/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/archives/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
