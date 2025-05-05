@@ -3,6 +3,10 @@ title: "Long Context Models & RAG: Insights from Google DeepMind (Release Notes 
 date: 2025-05-05T10:00:00Z
 draft: false
 tags: ["long-context", "rag", "llm", "deepmind", "release-notes", "podcast"]
+cover:
+    image: "/images/long-context-rag-podcast.png"
+    alt: "Release Notes Podcast: Long Context & RAG"
+    caption: "DeepMind researcher discusses long context and RAG"
 ---
 
 Explore the synergy between long context models and Retrieval Augmented Generation (RAG) in this episode of the Release Notes podcast. Google DeepMind's Nikolay Savinov joins host Logan Kilpatrick to discuss scaling context windows into the millions, recent quality improvements, RAG versus long context, and what's next in the field.
@@ -59,4 +63,4 @@ Explore the synergy between long context models and Retrieval Augmented Generati
 
 ---
 
-For a deep dive, watch or listen to the full episode linked above! 
+For a deep dive, watch or listen to the full episode linked above!

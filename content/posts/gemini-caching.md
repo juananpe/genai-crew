@@ -10,6 +10,10 @@ tags:
     "openai",
     "prompt-engineering",
   ]
+cover:
+    image: "/images/gemini-context-caching.png"
+    alt: "Gemini Context Caching"
+    caption: "Efficient context reuse for cost optimization"
 ---
 
 Context caching in Gemini allows you to store and pre-compute context, such as documents or even entire code repositories. This cached context can then be reused in subsequent requests, leading to significant cost savings – potentially up to 75%.

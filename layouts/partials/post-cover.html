@@ -1,0 +1,49 @@
+{{/* Post Cover Image Partial */}}
+{{ $page := . }}
+{{ $cardStyle := false }}
+
+{{ if reflect.IsMap . }}
+  {{ $page = .page }}
+  {{ $cardStyle = .cardStyle }}
+{{ end }}
+
+{{ $imageUrl := "" }}
+{{ $alt := $page.Title }}
+{{ $caption := "" }}
+
+{{/* Check if cover is defined in front matter */}}
+{{ if $page.Params.cover }}
+  {{ $imagePath := $page.Params.cover.image }}
+  {{ if not (hasPrefix $imagePath "/") }}
+    {{ $imagePath = print "/" $imagePath }}
+  {{ end }}
+  {{ $imageUrl = print "/genai-crew" $imagePath }}
+  {{ if $page.Params.cover.alt }}
+    {{ $alt = $page.Params.cover.alt }}
+  {{ end }}
+  {{ if $page.Params.cover.caption }}
+    {{ $caption = $page.Params.cover.caption }}
+  {{ end }}
+{{/* Fallback to auto-generated path based on filename */}}
+{{ else }}
+  {{ $filename := replace (path.Base $page.File.Path) ".md" "" }}
+  
+  {{ if eq $filename "long-context-rag-release-notes" }}
+    {{ $filename = "long-context-rag-podcast" }}
+  {{ else if eq $filename "survey-ai-agent-protocols" }}
+    {{ $filename = "agent-internet-ecosystem" }}
+  {{ else if eq $filename "gemini-caching" }}
+    {{ $filename = "gemini-context-caching" }}
+  {{ else if eq $filename "intellect-2" }}
+    {{ $filename = "intellect2" }}
+  {{ end }}
+  
+  {{ $imageUrl = print "/genai-crew/images/" $filename ".png" }}
+{{ end }}
+
+<div class="post-cover">
+  <img src="{{ $imageUrl }}" alt="{{ $alt }}" class="db mb2" {{ if $cardStyle }}style="max-height: 100px; object-fit: cover;"{{ end }}>
+  {{ if $caption }}
+    <span class="f7 gray db tc">{{ $caption }}</span>
+  {{ end }}
+</div>
