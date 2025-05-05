@@ -2,164 +2,164 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on GenAI Crew</title>
-    <link>https://juananpe.github.io/genai-crew/tags/</link>
+    <link>https://juananpe.github.io/tags/</link>
     <description>Recent content in Tags on GenAI Crew</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 May 2025 10:00:00 +0000</lastBuildDate>
-    <atom:link href="https://juananpe.github.io/genai-crew/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://juananpe.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agent-Frameworks</title>
-      <link>https://juananpe.github.io/genai-crew/tags/agent-frameworks/</link>
+      <link>https://juananpe.github.io/tags/agent-frameworks/</link>
       <pubDate>Mon, 05 May 2025 10:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/tags/agent-frameworks/</guid>
+      <guid>https://juananpe.github.io/tags/agent-frameworks/</guid>
       <description></description>
     </item>
     <item>
       <title>Agent-Protocols</title>
-      <link>https://juananpe.github.io/genai-crew/tags/agent-protocols/</link>
+      <link>https://juananpe.github.io/tags/agent-protocols/</link>
       <pubDate>Mon, 05 May 2025 10:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/tags/agent-protocols/</guid>
+      <guid>https://juananpe.github.io/tags/agent-protocols/</guid>
       <description></description>
     </item>
     <item>
       <title>Ai-Agents</title>
-      <link>https://juananpe.github.io/genai-crew/tags/ai-agents/</link>
+      <link>https://juananpe.github.io/tags/ai-agents/</link>
       <pubDate>Mon, 05 May 2025 10:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/tags/ai-agents/</guid>
+      <guid>https://juananpe.github.io/tags/ai-agents/</guid>
       <description></description>
     </item>
     <item>
       <title>Ai-Ecosystem</title>
-      <link>https://juananpe.github.io/genai-crew/tags/ai-ecosystem/</link>
+      <link>https://juananpe.github.io/tags/ai-ecosystem/</link>
       <pubDate>Mon, 05 May 2025 10:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/tags/ai-ecosystem/</guid>
+      <guid>https://juananpe.github.io/tags/ai-ecosystem/</guid>
       <description></description>
     </item>
     <item>
       <title>Deepmind</title>
-      <link>https://juananpe.github.io/genai-crew/tags/deepmind/</link>
+      <link>https://juananpe.github.io/tags/deepmind/</link>
       <pubDate>Mon, 05 May 2025 10:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/tags/deepmind/</guid>
+      <guid>https://juananpe.github.io/tags/deepmind/</guid>
       <description></description>
     </item>
     <item>
       <title>Llm</title>
-      <link>https://juananpe.github.io/genai-crew/tags/llm/</link>
+      <link>https://juananpe.github.io/tags/llm/</link>
       <pubDate>Mon, 05 May 2025 10:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/tags/llm/</guid>
+      <guid>https://juananpe.github.io/tags/llm/</guid>
       <description></description>
     </item>
     <item>
       <title>Long-Context</title>
-      <link>https://juananpe.github.io/genai-crew/tags/long-context/</link>
+      <link>https://juananpe.github.io/tags/long-context/</link>
       <pubDate>Mon, 05 May 2025 10:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/tags/long-context/</guid>
+      <guid>https://juananpe.github.io/tags/long-context/</guid>
       <description></description>
     </item>
     <item>
       <title>Podcast</title>
-      <link>https://juananpe.github.io/genai-crew/tags/podcast/</link>
+      <link>https://juananpe.github.io/tags/podcast/</link>
       <pubDate>Mon, 05 May 2025 10:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/tags/podcast/</guid>
+      <guid>https://juananpe.github.io/tags/podcast/</guid>
       <description></description>
     </item>
     <item>
       <title>Rag</title>
-      <link>https://juananpe.github.io/genai-crew/tags/rag/</link>
+      <link>https://juananpe.github.io/tags/rag/</link>
       <pubDate>Mon, 05 May 2025 10:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/tags/rag/</guid>
+      <guid>https://juananpe.github.io/tags/rag/</guid>
       <description></description>
     </item>
     <item>
       <title>Release-Notes</title>
-      <link>https://juananpe.github.io/genai-crew/tags/release-notes/</link>
+      <link>https://juananpe.github.io/tags/release-notes/</link>
       <pubDate>Mon, 05 May 2025 10:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/tags/release-notes/</guid>
+      <guid>https://juananpe.github.io/tags/release-notes/</guid>
       <description></description>
     </item>
     <item>
       <title>Failure-Modes</title>
-      <link>https://juananpe.github.io/genai-crew/tags/failure-modes/</link>
+      <link>https://juananpe.github.io/tags/failure-modes/</link>
       <pubDate>Sun, 27 Apr 2025 11:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/tags/failure-modes/</guid>
+      <guid>https://juananpe.github.io/tags/failure-modes/</guid>
       <description></description>
     </item>
     <item>
       <title>Infographic</title>
-      <link>https://juananpe.github.io/genai-crew/tags/infographic/</link>
+      <link>https://juananpe.github.io/tags/infographic/</link>
       <pubDate>Sun, 27 Apr 2025 11:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/tags/infographic/</guid>
+      <guid>https://juananpe.github.io/tags/infographic/</guid>
       <description></description>
     </item>
     <item>
       <title>Microsoft</title>
-      <link>https://juananpe.github.io/genai-crew/tags/microsoft/</link>
+      <link>https://juananpe.github.io/tags/microsoft/</link>
       <pubDate>Sun, 27 Apr 2025 11:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/tags/microsoft/</guid>
+      <guid>https://juananpe.github.io/tags/microsoft/</guid>
       <description></description>
     </item>
     <item>
       <title>Context-Caching</title>
-      <link>https://juananpe.github.io/genai-crew/tags/context-caching/</link>
+      <link>https://juananpe.github.io/tags/context-caching/</link>
       <pubDate>Sun, 27 Apr 2025 10:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/tags/context-caching/</guid>
+      <guid>https://juananpe.github.io/tags/context-caching/</guid>
       <description></description>
     </item>
     <item>
       <title>Cost-Optimization</title>
-      <link>https://juananpe.github.io/genai-crew/tags/cost-optimization/</link>
+      <link>https://juananpe.github.io/tags/cost-optimization/</link>
       <pubDate>Sun, 27 Apr 2025 10:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/tags/cost-optimization/</guid>
+      <guid>https://juananpe.github.io/tags/cost-optimization/</guid>
       <description></description>
     </item>
     <item>
       <title>Gemini</title>
-      <link>https://juananpe.github.io/genai-crew/tags/gemini/</link>
+      <link>https://juananpe.github.io/tags/gemini/</link>
       <pubDate>Sun, 27 Apr 2025 10:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/tags/gemini/</guid>
+      <guid>https://juananpe.github.io/tags/gemini/</guid>
       <description></description>
     </item>
     <item>
       <title>Openai</title>
-      <link>https://juananpe.github.io/genai-crew/tags/openai/</link>
+      <link>https://juananpe.github.io/tags/openai/</link>
       <pubDate>Sun, 27 Apr 2025 10:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/tags/openai/</guid>
+      <guid>https://juananpe.github.io/tags/openai/</guid>
       <description></description>
     </item>
     <item>
       <title>Prompt-Engineering</title>
-      <link>https://juananpe.github.io/genai-crew/tags/prompt-engineering/</link>
+      <link>https://juananpe.github.io/tags/prompt-engineering/</link>
       <pubDate>Sun, 27 Apr 2025 10:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/tags/prompt-engineering/</guid>
+      <guid>https://juananpe.github.io/tags/prompt-engineering/</guid>
       <description></description>
     </item>
     <item>
       <title>Collaborative-Training</title>
-      <link>https://juananpe.github.io/genai-crew/tags/collaborative-training/</link>
+      <link>https://juananpe.github.io/tags/collaborative-training/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/tags/collaborative-training/</guid>
+      <guid>https://juananpe.github.io/tags/collaborative-training/</guid>
       <description></description>
     </item>
     <item>
       <title>Decentralized-Ai</title>
-      <link>https://juananpe.github.io/genai-crew/tags/decentralized-ai/</link>
+      <link>https://juananpe.github.io/tags/decentralized-ai/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/tags/decentralized-ai/</guid>
+      <guid>https://juananpe.github.io/tags/decentralized-ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Large-Models</title>
-      <link>https://juananpe.github.io/genai-crew/tags/large-models/</link>
+      <link>https://juananpe.github.io/tags/large-models/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/tags/large-models/</guid>
+      <guid>https://juananpe.github.io/tags/large-models/</guid>
       <description></description>
     </item>
     <item>
       <title>Reinforcement-Learning</title>
-      <link>https://juananpe.github.io/genai-crew/tags/reinforcement-learning/</link>
+      <link>https://juananpe.github.io/tags/reinforcement-learning/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://juananpe.github.io/genai-crew/tags/reinforcement-learning/</guid>
+      <guid>https://juananpe.github.io/tags/reinforcement-learning/</guid>
       <description></description>
     </item>
   </channel>
