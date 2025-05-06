@@ -10,6 +10,10 @@ tags:
     "agent-frameworks",
     "ai-ecosystem",
   ]
+cover:
+    image: "/images/agent-internet-ecosystem.png"
+    alt: "AI Agent Protocols Survey"
+    caption: "Layered architecture of the agent internet ecosystem"
 ---
 
 A recent research paper from Shanghai Jiao Tong University and the ANP Community provides the first comprehensive analysis of existing agent protocols, offering a systematic two-dimensional classification that distinguishes between context-oriented versus inter-agent protocols and general-purpose versus domain-specific protocols.

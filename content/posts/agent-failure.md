@@ -3,6 +3,10 @@ title: "Failure Modes of AI Agents: Effects"
 date: 2025-04-27T11:00:00Z # You might want to adjust this date
 draft: false
 tags: ["ai-agents", "failure-modes", "microsoft", "infographic"]
+cover:
+    image: "/images/agents-failure.png"
+    alt: "AI Agents Failure"
+    caption: "Effects of AI agent failure on systems"
 ---
 
 Rubén Fernández (@rub) recently shared insights on a Microsoft paper about AI Agent failure modes, concerned it might not get the attention it deserves. You can find his original note here: [https://substack.com/@thelearningrub/note/c-113284290](https://substack.com/@thelearningrub/note/c-113284290?utm_source=notes-share-action&r=dhjup)
